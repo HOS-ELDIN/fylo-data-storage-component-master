@@ -22,8 +22,8 @@ module.exports = {
 				VeryDarkBlue: "hsl(229, 57%, 11%)",
 			},
 			backgroundImage: {
-				"desk": "url(/images/bg-desktop.png)",
-				"mobile": "url(/images/bg-mobile.png)",
+				"desk": "url(../images/bg-desktop.png)",
+				"mobile": "url(../images/bg-mobile.png)",
 			},
 		},
 	},
