@@ -1,0 +1,10 @@
+{
+	"workbench.colorCustomizations": {
+		"editor.background": "#000",
+		"activityBar.background": "#0C3422",
+		"titleBar.activeBackground": "#114930",
+		"titleBar.activeForeground": "#F4FDF9"
+	},
+	"cSpell.language": "en,ar",
+	"cSpell.enableFiletypes": ["!html"]
+}

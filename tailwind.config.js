@@ -8,12 +8,9 @@ module.exports = {
 		extend: {
 			colors: {
 				// ### Primary
-
 				GradientaFrom: "hsl(6, 100%, 80%)",
 				GradientTo: "hsl(335, 100%, 65%)",
-
 				// ### Neutral
-
 				PaleBlue: "hsl(243, 100%, 93%)",
 				GrayishBlue: "hsl(229, 7%, 55%)",
 				//div bg
